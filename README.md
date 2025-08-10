@@ -7,8 +7,8 @@ A Node.js-based web scraper for e-commerce product listings with AI-powered cont
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/<your-username>/ecommerce-scraper.git
-cd ecommerce-scraper
+git clone https://github.com/amoswijaya/e-commerce-screaper.git
+cd e-commerce-screaper
 npm install
 ```
 
